@@ -8,6 +8,15 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 ## 🛠 Projects
 - *Project 1*:E-COMMERCE INVENTORY MANAGMENT
+- *description*:An E-Commerce Inventory Management System is a solution designed to efficiently track, manage, and control inventory for online businesses. It ensures accurate stock levels, streamlines order fulfillment, and provides real-time updates. Key components include Product Management to organize product details, Stock Management to monitor inventory levels, Order Management to handle customer orders, and Reports & Analytics for insights into sales trends and inventory performance. This system helps businesses optimize operations, reduce errors, and improve customer satisfaction.
+- *There are 4 modules*:
+- 1. Product Management
+  2.  Stock Management
+  3.  Order Management
+  4.  Reports & Analytics
+     
+
+
 
 
 ## 🚀 Skills
