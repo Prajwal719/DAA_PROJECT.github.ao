@@ -1,4 +1,31 @@
-itle:  E-Commerce Inventory Management System
-description: An E-commerce Inventory Management System consists of four key modules: *Product Management* to organize and track product details, *Stock Management* to monitor inventory levels and ensure availability, *Order Management* to streamline the processing and fulfillment of customer orders, and *Report & Analytics* to provide insights into sales trends, stock performance, and demand forecasting. These modules work together to enhance operational efficiency, reduce errors, and improve decision-making. 
-The system offers real-time data updates, ensuring accurate inventory tracking and timely order fulfillment. Ultimately, it helps optimize stock levels and boosts customer satisfaction.
-theme: jekyll-theme-cayman
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Commerce Inventory Management System</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jekyll-theme-cayman/0.1.1/cayman.min.css">
+</head>
+<body>
+    <header>
+        <h1>E-Commerce Inventory Management System</h1>
+    </header>
+    <main>
+        <section>
+            <p>An <strong>E-commerce Inventory Management System</strong> consists of four key modules:</p>
+            <ul>
+                <li><strong>Product Management</strong> to organize and track product details.</li>
+                <li><strong>Stock Management</strong> to monitor inventory levels and ensure availability.</li>
+                <li><strong>Order Management</strong> to streamline the processing and fulfillment of customer orders.</li>
+                <li><strong>Report & Analytics</strong> to provide insights into sales trends, stock performance, and demand forecasting.</li>
+            </ul>
+            <p>These modules work together to enhance operational efficiency, reduce errors, and improve decision-making. The system offers real-time data updates, ensuring accurate inventory tracking and timely order fulfillment. Ultimately, it helps optimize stock levels and boosts customer satisfaction.</p>
+        </section>
+    </main>
+    <footer>
+        <p>Theme: Jekyll Cayman</p>
+    </footer>
+</body>
+</html>
+
